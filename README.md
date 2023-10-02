@@ -10,3 +10,5 @@ Time frame after the Vaccination campaign: November 1, 2021 - April 1 2022
 
 Utilizes the Dataset found from Our World In Data:
 https://ourworldindata.org/covid-metrics-previous-waves
+
+Clean dataset values are uploaded in the two seperate files while the main C++ program is its own file. Research problem and statement is presented also.
