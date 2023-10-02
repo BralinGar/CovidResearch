@@ -2,7 +2,7 @@
 
 Student Research Investigation:
 
-Investigates the correlation between confirmed cases vs confirmed deaths before and the after the Covid-19 Vaccination campaign launch
+Investigates the correlation between confirmed cases vs confirmed deaths before and the after the Covid-19 Vaccination campaign launch. C++ program that implementes rudimentary user control through console to display research values and intepretation of said values.
 
 Time frame before the Vaccination campagin: October 1, 2020 - April 1 2021
 
